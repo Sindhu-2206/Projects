@@ -1,1 +1,10 @@
+PURPOSE
+This project aims to provide hands-on experience applying statistical learning methods to real-world scenarios. The project will also provide practical insights into data cleaning, exploration, modeling, and interpretation.
 
+TASK
+
+You must work in teams of up to 4 members and select at least two methods each from supervised and unsupervised learning, thus, four methods in total.
+Supervised methods (select at least two): Logistic Regression, KNN, LDA, QDA, SVM, Decision Trees, Naive Bayes, SVM, and Neural Network.
+Unsupervised methods (select at least two): K-Means, Hierarchical Clustering, and Apriori algorithm.
+Develop models to predict the class of dry beans. Apply statistical learning methods to analyze the dataset, preprocess it, build a predictive model, assess its performance, and interpret the outcomes.
+Dataset: Download the dataset Download Download the datasetprovided. Do not download a similar dataset elsewhere. Use the one I have provided, as I have made some changes. Find more information about the dataset here: https://archive.ics.uci.edu/dataset/602/dry+bean+datasetLinks to an external site.. 
